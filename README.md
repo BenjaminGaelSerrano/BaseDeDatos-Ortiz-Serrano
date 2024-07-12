@@ -5,3 +5,4 @@ create tablas: https://github.com/BenjaminGaelSerrano/BaseDeDatos-Ortiz-Serrano/
 pasaje de DER a tablas:https://github.com/BenjaminGaelSerrano/BaseDeDatos-Ortiz-Serrano/tree/main/deratablas;
 funciones y group by:https://github.com/BenjaminGaelSerrano/BaseDeDatos-Ortiz-Serrano/tree/main/funcionesy%20group%20by;
 tp der:https://github.com/BenjaminGaelSerrano/BaseDeDatos-Ortiz-Serrano/tree/main/tp%20der;
+tp remiseria: https://github.com/BenjaminGaelSerrano/BaseDeDatos-Ortiz-Serrano/tree/main/tp%20remis;
